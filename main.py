@@ -283,4 +283,4 @@ async def about(interaction: discord.Interaction):
     
     await interaction.response.send_message(embed=embed)
 
-client.run('BOTTOKEN')  # Replace with your actual bot token
+client.run('YOUR_BOT_TOKEN')  # Replace with your actual bot token
